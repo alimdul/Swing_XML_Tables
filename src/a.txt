@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+<Student>
+<surname>a</surname>
+<firstname>a</firstname>
+<lastname>a</lastname>
+<date>2018-06-01</date>
+<faculty>ФИТиУ</faculty>
+<football>
+<footballteam>a</footballteam>
+<composition>основной</composition>
+<position>вратарь</position>
+</football>
+</Student>
+</Students>
